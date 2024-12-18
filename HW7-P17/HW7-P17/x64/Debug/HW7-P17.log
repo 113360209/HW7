@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\julia\OneDrive\桌面\高階語言程式\HW7\HW7-P17\HW7-P17\main.c(13,11): warning C4267: '=': 將 'size_t' 轉換為 'int'，資料可能遺失
+  HW7-P17.vcxproj -> C:\Users\julia\OneDrive\桌面\高階語言程式\HW7\HW7-P17\x64\Debug\HW7-P17.exe
